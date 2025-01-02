@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](https://github.com/fern4ndocsarruda/cibersecurity-desafio-phishing/blob/9218d45239b21dc15439c0b59bb8e567add09ec1/teste_phishing.png)
