@@ -22,8 +22,10 @@ Neste projeto foi criado um Phishing para captura de senhas do Facebook utilizan
 
 ### Resultados
 Kali Linux Screen:
+
 ![Alt text](https://github.com/fern4ndocsarruda/cibersecurity-desafio-phishing/blob/9218d45239b21dc15439c0b59bb8e567add09ec1/teste_phishing.png)
 Zoom of the Result:
+
 ![Alt text](https://github.com/fern4ndocsarruda/cibersecurity-desafio-phishing/blob/e3c7657349c3df6edf426c1efabf914dafd178f1/resultado.png)
 
 ---
@@ -52,6 +54,8 @@ In this project, a Phishing technique was created to capture Facebook passwords 
 
 ### Results
 Kali Linux Screen:
+
 ![Alt text](https://github.com/fern4ndocsarruda/cibersecurity-desafio-phishing/blob/9218d45239b21dc15439c0b59bb8e567add09ec1/teste_phishing.png)
 Zoom of the Result:
+
 ![Alt text](https://github.com/fern4ndocsarruda/cibersecurity-desafio-phishing/blob/e3c7657349c3df6edf426c1efabf914dafd178f1/resultado.png)
