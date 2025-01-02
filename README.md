@@ -1,5 +1,3 @@
-## Conteúdo em Português
-
 # Phishing para captura de senhas do Facebook
 
 Neste projeto foi criado um Phishing para captura de senhas do Facebook utilizando o sistema operacional Kali Linux e suas ferramentas nativas.
@@ -29,8 +27,6 @@ Zoom do resultado:
 ![Alt text](https://github.com/fern4ndocsarruda/cibersecurity-desafio-phishing/blob/e3c7657349c3df6edf426c1efabf914dafd178f1/resultado.png)
 
 ---
-
-## Content in English
 
 # Phishing for Facebook Password Capture
 
